@@ -1,0 +1,20 @@
+# Colcon / ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Editors
+.vscode/
+
+# OS
+.DS_Store
+
+# BT.CPP local build artifacts (keep source)
+BehaviorTree.CPP/build/
